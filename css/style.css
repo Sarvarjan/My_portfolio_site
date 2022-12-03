@@ -200,11 +200,11 @@ body{
   
 }
 
-.container2{
-    display: flex;
-    justify-content: center; 
+.container2{ 
     height: 915.18px ;
     width: 1170px;
+    display: inline;
+    align-items: center;
 }
 
 .section-title2{
@@ -221,6 +221,11 @@ body{
     width:585px ;
 }
 
+.container3{
+    height: 915.18px ;
+    width: 585px;   
+    display: flex; 
+}
 
 
 
